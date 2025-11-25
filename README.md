@@ -1,8 +1,7 @@
 # 🖥️ АИС "Компьютерный салон"
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
-![Flet](https://img.shields.io/badge/Flet-0.10.0-green.svg)
-
+[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org)
+[![Flet](https://img.shields.io/badge/Flet-0.10.0-green.svg)](https://flet.dev)
 
 **Автоматизированная информационная система для управления компьютерным салоном** - современное desktop-приложение для учета товаров, поставщиков и анализа продаж.
 ---
